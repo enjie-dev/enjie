@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on Contribute to existing open-source projects 
 - 📫 How to reach me : +256708776823/jonathanngaboyeka23@gmail.com
--skills:HTML
-       -CSS 
-       -JAVASCRIPT
-       -PHP    
-       -NODE.JS
+skills:HTML
+       CSS 
+       JAVASCRIPT
+       PHP    
+       NODE.JS
 
 <!---
 jonathanngaboyekaenjie/jonathanngaboyekaenjie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
