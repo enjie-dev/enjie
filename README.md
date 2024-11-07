@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan Ngaboyeka 
+- 👋 Hi, I’m Enjie
 - 👀 I’m interested in front and back-end development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate or Contribute to existing open-source projects 
